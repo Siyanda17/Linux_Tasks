@@ -1,0 +1,15 @@
+./Desktop/work/task5_5.sh
+./Desktop/work/task5_1.sh
+./Desktop/work/task5.sh
+./Desktop/work/task5_6.sh
+./Desktop/work/task5_2.sh
+./Desktop/work/task5_4.sh
+./Desktop/work/task5_3.sh
+./Desktop/task5.sh
+./workspace/script.sh
+./workspace/store.sh
+./second.sh
+./try.sh
+./task6_1.sh
+./task6_2.sh
+./bheka.sh
